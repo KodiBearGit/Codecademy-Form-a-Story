@@ -28,7 +28,7 @@ List of features
 * uses html form/input
 
 ## Status
-Project is: in progress
+Project is: completed
 
 ## Inspiration
 Codecademy Project under Building Interactive Websites with JavaScript
